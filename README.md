@@ -1,5 +1,5 @@
 wget https://raw.githubusercontent.com/WeiDevCode/auto-ip-ssl/refs/heads/main/auto_ip_ssl.sh
 
-chmod +x generate_ssl_custom.sh
+chmod +x auto_ip_ssl.sh
 
-./generate_ssl_custom.sh
+./auto_ip_ssl.sh
